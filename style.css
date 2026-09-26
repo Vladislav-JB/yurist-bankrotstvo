@@ -263,7 +263,7 @@ p{margin:0}
   .btn{padding:14px 20px;letter-spacing:.1em}
   .select{min-width:0;width:100%}
 }
-@media (max-width:400px){
+@media (max-width:360px){
   .cases,.cases--3,.svc{grid-template-columns:1fr}
   .arts{grid-template-columns:1fr}
   .media{grid-template-columns:1fr}
